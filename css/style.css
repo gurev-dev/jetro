@@ -1,0 +1,9 @@
+html {
+	box-sizing: border-box;
+}
+body {
+	background-color: #ccc;
+}
+header {
+	background-color: #aa2a2a;
+}
